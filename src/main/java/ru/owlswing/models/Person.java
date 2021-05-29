@@ -30,11 +30,6 @@ public class Person {
         this.email = email;
     }
 
-    public Person(int id, String name) {
-        this.id = id;
-        this.name = name;
-    }
-
     public int getAge() {
         return age;
     }
